@@ -2,7 +2,7 @@
 
 Vous cherchiez un compte ou un projet appartenant à **flowvx** ?
 
-sCe compte a été renommé **Epirhos**, aujourd'hui propriétaire de cette organisation. 
+Ce compte a été renommé **Epirhos**, aujourd'hui propriétaire de cette organisation. 
 
 Retrouvez-le ici : [github.com/epirhos](https://github.com/epirhos)
 
